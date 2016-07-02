@@ -1,0 +1,19 @@
+{
+  "name": "poc-json-patch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fast-json-patch": "^1.0.0"
+  },
+  "devDependencies": {
+    "standart": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
